@@ -1,4 +1,4 @@
-# Simple Tkinter Calculator
+# Basic GUI Calculator
 
 This is a basic calculator application built using Python's `tkinter` library. It provides a graphical user interface for performing simple arithmetic operations like addition, subtraction, multiplication, and division.
 
